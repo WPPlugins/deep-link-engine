@@ -1,0 +1,14 @@
+Fresh install:
+1. Unpack the downladed zip archive to your local disk
+2. Use FTP to transfer created folder deep-link-engine/ to your server under `...wp-content/plugins/` (you can delete locally unpacked archive after you do)
+3. Login with administrative privileges to your WordPress installation
+4. Switch to Plugins and find the "Deep Link Engine" in the list, click "Activate" to activate plug-in
+
+Upgrading from previous version:
+1. Login with administrative privileges to your WordPress installation
+2. Switch to Plugins and find the "Deep Link Engine" in the list, click "Deactivate" to deactivate plug-in
+3. Use FTP to delete whole folder wp-content/plugins/deep-link-engine
+4. Unpack the downloaded zip archive to your local disk
+5. Use FTP to transfer created folder deep-link-engine/ to your server under wp-content/plugins/ (you can delete unpacked archive after you do)
+6. Login with administrative privileges to your WordPress installation
+7. Switch to Plugins and find the "Deep Link Engine" in the list, click "Activate" to activate plug-in
